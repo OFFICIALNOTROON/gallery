@@ -17,10 +17,12 @@
 
 7:pkg install dropbear -y
 
-8:cd gallery hack
+8:git clone https://github.com/OFFICIALNOTROON/gallery
 
-9:php gallery.php
+9:cd gallery 
+
+10:php gallery.php
 ==========================
 برای عمل کرد بهتر  گزینه ۹ را دوباره اجرا کنید
 control + c
-9: php gallery.php 
+10: php gallery.php 
